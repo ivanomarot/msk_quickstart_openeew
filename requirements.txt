@@ -1,0 +1,4 @@
+aws-cdk.core==1.70
+aws-cdk.aws_ec2==1.70
+aws-cdk.aws_iam==1.70
+aws-cdk.aws_s3_assets==1.70

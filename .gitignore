@@ -1,0 +1,8 @@
+# Development infrastrcuture components
+cdk.out/*
+
+# PyCharm
+.idea
+
+# AWS CDK
+/cdk.context.json
